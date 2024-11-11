@@ -18,4 +18,3 @@ The Obstacle Avoiding Bot is an Arduino-based robot equipped with an ultrasonic 
   - Control Pin: 19
 - **Bluetooth Module** (BluetoothSerial Library)
 
-## Wiring Diagram
